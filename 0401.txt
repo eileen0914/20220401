@@ -1,0 +1,6 @@
+int r = 5;
+int s = 7;
+if (r + s > 15)
+{
+    Console.WriteLine("餓餓");
+}
