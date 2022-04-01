@@ -1,6 +1,14 @@
-int r = 5;
-int s = 7;
-if (r + s > 15)
+int r = 3;
+int s = 4;
+if (r + s > 6)
 {
     Console.WriteLine("餓餓");
+}
+else if (r + s > 2)
+{
+    Console.WriteLine("吃吃");
+}
+else
+{
+    Console.WriteLine("睡睡");
 }
