@@ -4,3 +4,11 @@ if (r + s > 15)
 {
     Console.WriteLine("餓餓");
 }
+else if (r + s > 10)
+{
+    Console.WriteLine("吃吃");
+}
+else
+{
+    Console.WriteLine("睡睡");
+}
